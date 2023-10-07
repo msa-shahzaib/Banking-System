@@ -1,0 +1,8 @@
+First Name , Last Name , Address, Account No. , Password, Date, Balance, String, Type, Principal Amount, Loan Duration 
+Shahzaib,Ahmed,17th street,93-736-932014,8437,15-07-2023,52500,15-05-22 !Account Created !Balance: 50000.!15-07-2023 !Interest rate has been credited to the account !Balance: 52500.!,1, 
+Abdul Moiz,Mateen,21th street,40-260-174408,4177,18-07-21,5000,18-07-21 !Account Created !Balance: 30000.!15-07-2023 !40000 has been withdrawn from the account !Balance: -10500.!16-07-2023 ! 20500 has been deposited to the account !Balance: 10000.!16-07-2023 ! 5000 has been withdrawn from the account !Balance: 5000.!,2, 
+Huzaifa,Daniyal,19th street,53-642-417643,7024,15-07-2023,8000,15-05-22 !Account Created !Balance: 12000.!15-07-2023 ! Monthly debt has been debited from the account ! Balance:8000.!,3,100000,9,
+Ali,Alam,17 block 2 gulistan e johar,54-884-850597,2805,15-07-2023,7000,15-07-2023!Account Created !Balance: 7000.!,2, 
+Huzaifa,Daniyal,19th street,92-483-159820,2793,19-07-2023,1200000,19-07-2023!Account Created !Balance: 1200000,1, 
+Mehdi,Ali,B-17 street 5,72-549-521211,2903,03-09-2023,100000,03-09-2023!Account Created !Balance: 100000,2, 
+Muhammad Shadab,Ahmed,R-183/1 The Comforts,27-903-781189,4701,04-10-2023,18000,04-10-2023!Account Created !Balance: 2000004-10-2023 ! 2000 has been withdrawn from the account !Balance: 18000.!,2, 
